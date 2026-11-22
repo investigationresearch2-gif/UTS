@@ -44,5 +44,5 @@ function revealMore() {
 }
 
 function goNext() {
-    window.location.href = "pic/vid/pic.html";
+    window.location.href = "pic.html";
 }
