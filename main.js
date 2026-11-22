@@ -32,11 +32,11 @@ function revealMore() {
 
         <h3>APPS USED</h3>
         <ul>
-            <li>Visual Studio Code - For writing and editing code</li>
-            <li>Edge - For testing and debugging the website</li>
-            <li>Canva - For creating images and graphics</li>
-            <li>ChatGPT - For assistance in grammar</li>
-            <li>Pinterest - For inspiration and ideas</li>
+            <li><strong>Visual Studio Code</strong> - For writing and editing code</li>
+            <li><strong>Edge</strong> - For testing and debugging the website</li>
+            <li><strong>Canva</strong> - For creating images and graphics</li>
+            <li><strong>ChatGPT</strong> - For assistance in grammar</li>
+            <li><strong>Pinterest</strong> - For inspiration and ideas</li>
         </ul>
 
         <button onclick="goNext()">NEXT</button>
